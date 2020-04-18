@@ -11,9 +11,9 @@ Data output
 ------------
 
 Data output is saved to Excel file that begins with city name and ends with current timestamp
-e.g. ``CITY_apartment_search_2020-04-18 13:58.xlsx``
+e.g. ``Rovaniemi_apartment_search_2020-04-18 13:58.xlsx`` See example file in repository.
 
-Data output is printed in terminal also
+Data output is also printed in terminal
 
 Data visualization
 ------------
