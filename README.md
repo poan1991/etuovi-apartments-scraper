@@ -1,6 +1,8 @@
 etuovi apartments scraper
 ================================
 
+Main file: ``etuovi_apartments_scraper.py``
+
 Webscraper for etuovi.fi apartment listings
 
 To edit apartment search change these values below (Line 168)
