@@ -19,4 +19,4 @@ Data visualization
 ------------
 
 For each execution three histogram/bar plot figures are created  
-file:/Users/anttiportaankorva/PycharmProjects/etuovi-apartments_scraper/Figure_1.png
+
