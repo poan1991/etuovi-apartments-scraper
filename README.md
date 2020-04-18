@@ -19,4 +19,8 @@ Data visualization
 ------------
 
 For each execution three histogram/bar plot figures are created  
-![Alt text](/doc/Figure_1.png?raw=true "Data visualization")
+![Alt text](/doc/Figure_1.png?raw=true "Data visualization1")
+
+![Alt text](/doc/Figure_2.png?raw=true "Data visualization2")
+
+![Alt text](/doc/Figure_3.png?raw=true "Data visualization3")
