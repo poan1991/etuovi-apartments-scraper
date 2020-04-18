@@ -1,8 +1,7 @@
-# etuovi-apartments-scraper
+# etuovi apartments scraper
 Webscraper for etuovi.fi apartment listings
 
 To edit apartment search change these values below (Line 168)
 
-search = apartments_webscraper('Rovaniemi', '100', '1', '100', '20') 
+search = apartments_webscraper('City', 'max price', 'min price', 'max size', 'min size') 
 
-#(city, price_max, price_min, size_max, size_min)
